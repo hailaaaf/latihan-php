@@ -1,7 +1,4 @@
 <?php
-// ============================================================
-// Latihan Individu PHP - Daftar Nilai Mata Kuliah
-// ============================================================
 
 // 1. Array multidimensi berisi minimal 5 mata kuliah
 $matkul = [
